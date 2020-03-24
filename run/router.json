@@ -172,6 +172,32 @@
   {
     "name": null,
     "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/subjectOneVip",
+    "regexp": "/^\\/api\\/subjectOneVip(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/subjectFourVip",
+    "regexp": "/^\\/api\\/subjectFourVip(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
       "POST"
     ],
     "paramNames": [],
@@ -189,6 +215,30 @@
     "paramNames": [],
     "path": "/api/subjectFour/wrong",
     "regexp": "/^\\/api\\/subjectFour\\/wrong(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/subjectOne/collection",
+    "regexp": "/^\\/api\\/subjectOne\\/collection(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/subjectFour/collection",
+    "regexp": "/^\\/api\\/subjectFour\\/collection(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

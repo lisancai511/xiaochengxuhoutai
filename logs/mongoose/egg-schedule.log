@@ -1,0 +1,6 @@
+2020-03-24 08:59:05,554 INFO 1880 [Timer] C:\Users\user\Desktop\myobject\egghoutai\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 70254449ms at 2020-03-25 04:30:00.003
+2020-03-24 08:59:05,554 INFO 1880 [Timer] C:\Users\user\Desktop\myobject\egghoutai\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 54054446ms at 2020-03-25 00:00:00.000
+2020-03-24 08:59:05,554 INFO 1880 [Timer] C:\Users\user\Desktop\myobject\egghoutai\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 54055446ms at 2020-03-25 00:00:01.000
+2020-03-24 08:59:04,901 INFO 2444 [egg-schedule]: register schedule C:\Users\user\Desktop\myobject\egghoutai\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-24 08:59:04,901 INFO 2444 [egg-schedule]: register schedule C:\Users\user\Desktop\myobject\egghoutai\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-03-24 08:59:04,901 INFO 2444 [egg-schedule]: register schedule C:\Users\user\Desktop\myobject\egghoutai\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

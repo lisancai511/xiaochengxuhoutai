@@ -6,8 +6,7 @@ class SubjectController extends Controller {
   async list() {
     const ctx = this.ctx;
     const query = ctx.query;
-    const filter = {
-    };
+    const filter = {};
     query.Type ? filter.Type = query.Type : null;
     const limit = parseInt(query.limit || 10);
     const offset = (parseInt(query.page || 1) - 1) * limit;
@@ -16,8 +15,7 @@ class SubjectController extends Controller {
   async listOne() {
     const ctx = this.ctx;
     const query = ctx.query;
-    const filter = {
-    };
+    const filter = {};
     query.Type ? filter.Type = query.Type : null;
     const limit = parseInt(query.limit || 10);
     const offset = (parseInt(query.page || 1) - 1) * limit;
@@ -26,12 +24,18 @@ class SubjectController extends Controller {
   async listFour() {
     const ctx = this.ctx;
     const query = ctx.query;
-    const filter = {
-    };
+    const filter = {};
     query.Type ? filter.Type = query.Type : null;
     const limit = parseInt(query.limit || 10);
     const offset = (parseInt(query.page || 1) - 1) * limit;
     this.ctx.body = await this.ctx.service.subject.listFour(filter, limit, offset);
+  }
+
+  async listOneVip() {
+    this.ctx.body = await this.ctx.service.subject.listOneVip();
+  }
+  async listFourVip() {
+    this.ctx.body = await this.ctx.service.subject.listFourVip();
   }
 
   async mockSubjectOne() {
@@ -56,6 +60,14 @@ class SubjectController extends Controller {
   async wrongFour() {
     const ctx = this.ctx;
     ctx.body = await ctx.service.subject.wrongFour(ctx.request.body);
+  }
+  async collectionOne() {
+    const ctx = this.ctx;
+    ctx.body = await ctx.service.subject.collectionOne(ctx.request.body);
+  }
+  async collectionFour() {
+    const ctx = this.ctx;
+    ctx.body = await ctx.service.subject.collectionFour(ctx.request.body);
   }
   async remove() {
     const ctx = this.ctx;

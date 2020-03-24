@@ -1,321 +1,329 @@
 {
   "cors": {
-    "origin": "/root/mongoose/config/config.default.js",
-    "allowMethods": "/root/mongoose/config/config.default.js"
+    "origin": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
+    "allowMethods": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js"
   },
   "jwt": {
-    "secret": "/root/mongoose/config/config.default.js",
-    "enable": "/root/mongoose/node_modules/egg-jwt/config/config.default.js"
+    "secret": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
+    "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jwt\\config\\config.default.js"
   },
   "security": {
     "csrf": {
-      "enable": "/root/mongoose/config/config.default.js",
-      "ignoreJSON": "/root/mongoose/config/config.default.js",
-      "type": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "useSession": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "headerName": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "queryName": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "refererWhiteList": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
+      "type": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     },
-    "domainWhiteList": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/root/mongoose/node_modules/egg-security/config/config.default.js",
+    "domainWhiteList": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
     "xframe": {
-      "enable": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "value": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "maxAge": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "value": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "value": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "policy": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/root/mongoose/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
     }
   },
   "static": {
-    "prefix": "/root/mongoose/config/config.default.js",
-    "dir": "/root/mongoose/config/config.default.js",
-    "dynamic": "/root/mongoose/node_modules/egg-static/config/config.default.js",
-    "preload": "/root/mongoose/node_modules/egg-static/config/config.default.js",
-    "buffer": "/root/mongoose/node_modules/egg-static/config/config.prod.js",
-    "maxFiles": "/root/mongoose/node_modules/egg-static/config/config.default.js",
-    "maxAge": "/root/mongoose/node_modules/egg-static/config/config.prod.js"
+    "prefix": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
+    "dir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
+    "dynamic": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-static\\config\\config.default.js"
   },
-  "rundir": "/root/mongoose/config/config.default.js",
-  "keys": "/root/mongoose/config/config.default.js",
-  "middleware": "/root/mongoose/config/config.default.js",
+  "rundir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
+  "keys": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
+  "middleware": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
   "mongoose": {
     "client": {
-      "url": "/root/mongoose/config/config.default.js",
+      "url": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
       "options": {
-        "useNewUrlParser": "/root/mongoose/config/config.default.js"
+        "useNewUrlParser": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js"
       }
     },
-    "url": "/root/mongoose/node_modules/egg-mongoose/config/config.default.js",
-    "options": "/root/mongoose/node_modules/egg-mongoose/config/config.default.js",
-    "plugins": "/root/mongoose/node_modules/egg-mongoose/config/config.default.js",
-    "loadModel": "/root/mongoose/node_modules/egg-mongoose/config/config.default.js",
-    "app": "/root/mongoose/node_modules/egg-mongoose/config/config.default.js",
-    "agent": "/root/mongoose/node_modules/egg-mongoose/config/config.default.js"
+    "url": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "options": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "plugins": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "loadModel": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "app": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js",
+    "agent": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js"
   },
   "http": {
     "headers": {
       "common": {
-        "Content-Type": "/root/mongoose/config/config.default.js"
+        "Content-Type": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js"
       }
     },
-    "timeout": "/root/mongoose/config/config.default.js"
+    "timeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js"
   },
   "session": {
-    "maxAge": "/root/mongoose/node_modules/egg-session/config/config.default.js",
-    "key": "/root/mongoose/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/root/mongoose/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/root/mongoose/node_modules/egg-session/config/config.default.js"
+    "maxAge": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-session\\config\\config.default.js"
   },
   "helper": {
-    "shtml": "/root/mongoose/node_modules/egg-security/config/config.default.js"
+    "shtml": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "/root/mongoose/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/root/mongoose/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/root/mongoose/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/root/mongoose/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/root/mongoose/node_modules/egg-onerror/config/config.default.js",
-    "templatePath": "/root/mongoose/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/root/mongoose/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/root/mongoose/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/root/mongoose/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/root/mongoose/node_modules/egg-i18n/config/config.default.js",
-    "cookieDomain": "/root/mongoose/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/root/mongoose/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "/root/mongoose/node_modules/egg-watcher/config/config.default.js",
+    "type": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "/root/mongoose/node_modules/egg-watcher/config/config.default.js",
-      "development": "/root/mongoose/node_modules/egg-watcher/config/config.default.js"
+      "default": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/root/mongoose/node_modules/egg-schedule/config/config.default.js",
-      "file": "/root/mongoose/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "/root/mongoose/node_modules/egg-schedule/config/config.default.js"
+    "directory": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-schedule\\config\\config.default.js"
   },
   "multipart": {
-    "mode": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
-    "autoFields": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
-    "files": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
-    "tmpdir": "/root/mongoose/node_modules/egg-multipart/config/config.default.js",
+    "mode": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "/root/mongoose/node_modules/egg-multipart/config/config.default.js"
+      "cron": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js"
     }
   },
+  "development": {
+    "watchDirs": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\config.default.js"
+  },
   "logrotator": {
-    "filesRotateByHour": "/root/mongoose/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/root/mongoose/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/root/mongoose/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/root/mongoose/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/root/mongoose/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/root/mongoose/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/root/mongoose/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js"
   },
   "view": {
-    "root": "/root/mongoose/node_modules/egg-view/config/config.default.js",
-    "cache": "/root/mongoose/node_modules/egg-view/config/config.default.js",
-    "defaultExtension": "/root/mongoose/node_modules/egg-view/config/config.default.js",
-    "defaultViewEngine": "/root/mongoose/node_modules/egg-view/config/config.default.js",
-    "mapping": "/root/mongoose/node_modules/egg-view/config/config.default.js"
+    "root": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\config.default.js"
   },
-  "env": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "name": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "cookies": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "proxy": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "maxIpsCount": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "maxProxyCount": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/root/mongoose/node_modules/egg/config/config.default.js",
+  "env": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
   "pkg": {
-    "name": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "version": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "description": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "private": "/root/mongoose/node_modules/egg/config/config.default.js",
+    "name": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "private": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
     "egg": {
-      "declarations": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "declarations": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     },
     "dependencies": {
-      "egg": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "egg-axios": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "egg-jwt": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "egg-mongoose": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "egg-scripts": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "md5-node": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "request": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "egg": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "egg-axios": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "egg-jwt": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "egg-mongoose": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "md5-node": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "request": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "autod": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "autod-egg": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "egg-bin": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "egg-ci": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "egg-cors": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "egg-mock": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "eslint": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "eslint-config-egg": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "autod": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     },
     "engines": {
-      "node": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "node": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     },
     "scripts": {
-      "start": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "stop": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "dev": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "debug": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "test": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "test-local": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "cov": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "lint": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "ci": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "autod": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "start": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "stop": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "dev": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "debug": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "test": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "cov": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "lint": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "ci": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "autod": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     },
     "ci": {
-      "version": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "version": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     },
     "repository": {
-      "type": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "url": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "type": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "url": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     },
-    "author": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "license": "/root/mongoose/node_modules/egg/config/config.default.js"
+    "author": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
   },
-  "baseDir": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "HOME": "/root/mongoose/node_modules/egg/config/config.default.js",
+  "baseDir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
   "dump": {
-    "ignore": "/root/mongoose/node_modules/egg/config/config.default.js"
+    "ignore": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "notFound": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "sitefile": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "middlewares": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "httpClient": "/root/mongoose/node_modules/egg/config/config.default.js"
+    "bodyparser": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "/root/mongoose/node_modules/egg/config/config.default.js"
+    "pageUrl": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/root/mongoose/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "encoding": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "formLimit": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "textLimit": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "strict": "/root/mongoose/node_modules/egg/config/config.default.js",
+    "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "depth": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "arrayLimit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     },
-    "onerror": "/root/mongoose/node_modules/egg/config/config.default.js"
+    "onerror": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "encoding": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "env": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "level": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "outputJSON": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "buffer": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "appLogName": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "coreLogName": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "agentLogName": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "errorLogName": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "coreLogger": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "allowDebugAtProd": "/root/mongoose/node_modules/egg/config/config.default.js"
+    "dir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "dnsCacheLookupInterval": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/root/mongoose/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
     "request": {
-      "timeout": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "timeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "maxSockets": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "keepAlive": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "maxSockets": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "keepAlive": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "logging": "/root/mongoose/node_modules/egg/config/config.default.js"
+    "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
   },
-  "coreMiddleware": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/root/mongoose/node_modules/egg/config/config.default.js",
-  "serverTimeout": "/root/mongoose/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "port": "/root/mongoose/node_modules/egg/config/config.default.js",
-      "hostname": "/root/mongoose/node_modules/egg/config/config.default.js"
+      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "/root/mongoose/node_modules/egg/config/config.default.js",
-    "responseTimeout": "/root/mongoose/node_modules/egg/config/config.default.js"
+    "maxWaitTime": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
   },
-  "onClientError": "/root/mongoose/node_modules/egg/config/config.default.js"
+  "onClientError": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
 }

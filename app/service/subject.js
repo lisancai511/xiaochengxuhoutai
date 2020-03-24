@@ -4,6 +4,12 @@ const Service = require('egg').Service;
 // const http = require('http');
 // const request = require('request');
 // const fs = require('fs');
+const {
+  vipOne
+} = require('./vip');
+const {
+  vipFour
+} = require('./vip');
 class SubjectService extends Service {
   async list(filter, limit = 10, offset = 0) {
     const ctx = this.ctx;
@@ -50,6 +56,33 @@ class SubjectService extends Service {
       total,
     };
   }
+
+  async listOneVip() {
+    const ctx = this.ctx;
+    const list = await ctx.model.SubjectOne.find({
+      id: {
+        $in: vipOne
+      },
+    });
+    return {
+      list,
+      total: list.length,
+    };
+  }
+  async listFourVip() {
+    const ctx = this.ctx;
+    const list = await ctx.model.SubjectFour.find({
+      id: {
+        $in: vipFour
+      },
+    });
+    return {
+      list,
+      code: 0,
+    };
+  }
+
+
   async get(id) {
     const ctx = this.ctx;
     const doc = await ctx.model.Subject.findOne({
@@ -77,7 +110,7 @@ class SubjectService extends Service {
   }
   async wrongOne(data = {}) {
     const ctx = this.ctx;
-    const list = ctx.model.SubjectOne.find({
+    const list = await ctx.model.SubjectOne.find({
       id: {
         $in: data
       },
@@ -89,7 +122,31 @@ class SubjectService extends Service {
   }
   async wrongFour(data = {}) {
     const ctx = this.ctx;
-    const list = ctx.model.SubjectFour.find({
+    const list = await ctx.model.SubjectFour.find({
+      id: {
+        $in: data
+      },
+    });
+    return {
+      list,
+      code: 0,
+    };
+  }
+  async collectionOne(data = {}) {
+    const ctx = this.ctx;
+    const list = await ctx.model.SubjectOne.find({
+      id: {
+        $in: data
+      },
+    });
+    return {
+      list,
+      code: 0,
+    };
+  }
+  async collectionFour(data = {}) {
+    const ctx = this.ctx;
+    const list = await ctx.model.SubjectFour.find({
       id: {
         $in: data
       },

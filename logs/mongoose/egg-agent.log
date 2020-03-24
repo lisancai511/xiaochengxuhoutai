@@ -1,0 +1,11 @@
+2020-03-24 08:59:03,767 INFO 1880 egg-axios defaults: {"transformRequest":[null],"transformResponse":[null],"timeout":10000,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"common":{"Accept":"application/json, text/plain, */*","Content-Type":"application/json; charset=UTF-8"},"delete":{},"get":{},"head":{},"post":{"Content-Type":"application/x-www-form-urlencoded"},"put":{"Content-Type":"application/x-www-form-urlencoded"},"patch":{"Content-Type":"application/x-www-form-urlencoded"}}}
+2020-03-24 08:59:03,720 INFO 1880 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\user\\Desktop\\myobject\\egghoutai\\logs\\mongoose","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mongoose-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-03-24 08:59:03,772 INFO 1880 [egg:core] dump config after load, 4ms
+2020-03-24 08:59:03,827 INFO 1880 [egg-watcher] Start watching: ["C:\\Users\\user\\Desktop\\myobject\\egghoutai\\app","C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config","C:\\Users\\user\\Desktop\\myobject\\egghoutai\\mocks","C:\\Users\\user\\Desktop\\myobject\\egghoutai\\mocks_proxy","C:\\Users\\user\\Desktop\\myobject\\egghoutai\\app.js"]
+2020-03-24 08:59:03,827 INFO 1880 [egg-watcher] Start watching: "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\app"
+2020-03-24 08:59:03,827 INFO 1880 [egg-watcher] Start watching: "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config"
+2020-03-24 08:59:03,827 INFO 1880 [egg-watcher] Start watching: "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\mocks"
+2020-03-24 08:59:03,827 INFO 1880 [egg-watcher] Start watching: "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\mocks_proxy"
+2020-03-24 08:59:03,827 INFO 1880 [egg-watcher] Start watching: "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\app.js"
+2020-03-24 08:59:03,827 INFO 1880 [egg-watcher:agent] watcher start success
+2020-03-24 08:59:03,836 INFO 1880 [egg:core] dump config after ready, 5ms
