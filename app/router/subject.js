@@ -32,4 +32,6 @@ module.exports = app => {
   router.get('/api/deleteAllSubject', controller.subject.deleteAllSubject); // 删除题库
   router.get('/api/deleteSubjectOne', controller.subject.deleteSubjectOne); // 删除题库
   router.get('/api/deleteSubjectFour', controller.subject.deleteSubjectFour); // 删除题库
+
+  // 专项练习接口
 };
