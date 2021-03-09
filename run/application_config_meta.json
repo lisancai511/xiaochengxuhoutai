@@ -1,329 +1,330 @@
 {
   "cors": {
-    "origin": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
-    "allowMethods": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js"
+    "origin": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js",
+    "allowMethods": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js"
   },
   "jwt": {
-    "secret": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
-    "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jwt\\config\\config.default.js"
+    "secret": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js",
+    "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-jwt@3.1.7@egg-jwt\\config\\config.default.js"
   },
   "security": {
     "csrf": {
-      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
-      "ignoreJSON": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
-      "type": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "useSession": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "cookieName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "sessionName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "headerName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "bodyName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "queryName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "refererWhiteList": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js",
+      "type": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
-    "domainWhiteList": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-    "protocolWhiteList": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-    "defaultMiddleware": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
+    "domainWhiteList": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
     "xframe": {
-      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.local.js",
-      "maxAge": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "includeSubdomains": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "policy": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js",
-      "checkAddress": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+      "ipBlackList": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     }
   },
   "static": {
-    "prefix": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
-    "dir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
-    "dynamic": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-static\\config\\config.default.js",
-    "preload": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-static\\config\\config.default.js",
-    "buffer": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-static\\config\\config.default.js",
-    "maxFiles": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-static\\config\\config.default.js"
+    "prefix": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js",
+    "dir": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js",
+    "dynamic": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
   },
-  "rundir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
-  "keys": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
-  "middleware": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
+  "rundir": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js",
+  "keys": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js",
+  "middleware": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js",
   "mongoose": {
     "client": {
-      "url": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js",
+      "url": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js",
       "options": {
-        "useNewUrlParser": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js"
+        "useNewUrlParser": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js"
       }
     },
-    "url": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js",
-    "options": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js",
-    "plugins": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js",
-    "loadModel": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js",
-    "app": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js",
-    "agent": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\config.default.js"
+    "url": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-mongoose@3.3.1@egg-mongoose\\config\\config.default.js",
+    "options": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-mongoose@3.3.1@egg-mongoose\\config\\config.default.js",
+    "plugins": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-mongoose@3.3.1@egg-mongoose\\config\\config.default.js",
+    "loadModel": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-mongoose@3.3.1@egg-mongoose\\config\\config.default.js",
+    "app": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-mongoose@3.3.1@egg-mongoose\\config\\config.default.js",
+    "agent": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-mongoose@3.3.1@egg-mongoose\\config\\config.default.js"
   },
   "http": {
     "headers": {
       "common": {
-        "Content-Type": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js"
+        "Content-Type": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js"
       }
     },
-    "timeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\config.default.js"
+    "timeout": "C:\\Users\\y\\Desktop\\egghoutai\\config\\config.default.js"
   },
   "session": {
-    "maxAge": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-session\\config\\config.default.js",
-    "key": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-session\\config\\config.default.js",
-    "httpOnly": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-session\\config\\config.default.js",
-    "encrypt": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-session\\config\\config.default.js"
+    "maxAge": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
   },
   "helper": {
-    "shtml": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\config.default.js"
+    "shtml": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "callback": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "csrf": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jsonp\\config\\config.default.js"
+    "limit": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-onerror\\config\\config.default.js",
-    "templatePath": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js",
-    "dirs": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js",
-    "queryField": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieField": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieDomain": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\config.default.js"
+    "defaultLocale": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-watcher\\config\\config.local.js",
+    "type": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-watcher\\config\\config.default.js",
-      "development": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-watcher\\config\\config.default.js"
+      "default": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-schedule\\config\\config.default.js",
-      "file": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-schedule\\config\\config.default.js"
+      "consoleLevel": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-schedule\\config\\config.default.js"
+    "directory": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js"
   },
   "multipart": {
-    "mode": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
-    "autoFields": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
-    "defaultCharset": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldSize": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fields": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileSize": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
-    "files": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileExtensions": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
-    "whitelist": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
-    "tmpdir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js",
+    "mode": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\config.default.js"
+      "cron": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
     }
   },
   "development": {
-    "watchDirs": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\config.default.js",
-    "ignoreDirs": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\config.default.js",
-    "fastReady": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\config.default.js",
-    "reloadOnDebug": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideDefault": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\config.default.js"
+    "watchDirs": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFiles": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxDays": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
   },
   "view": {
-    "root": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\config.default.js",
-    "cache": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\config.local.js",
-    "defaultExtension": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\config.default.js",
-    "defaultViewEngine": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\config.default.js",
-    "mapping": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\config.default.js"
+    "root": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "mapping": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js"
   },
-  "env": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "name": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "cookies": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "proxy": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "maxIpsCount": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "maxProxyCount": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "protocolHeaders": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "ipHeaders": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "hostHeaders": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "env": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "name": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "cookies": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
   "pkg": {
-    "name": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "version": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "description": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "private": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "name": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "version": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "description": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "private": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
     "egg": {
-      "declarations": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "declarations": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     },
     "dependencies": {
-      "egg": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "egg-axios": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "egg-jwt": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "egg-mongoose": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "egg-scripts": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "md5-node": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "request": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "egg": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "egg-axios": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "egg-jwt": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "egg-mongoose": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "md5-node": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "request": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "autod": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "autod-egg": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "egg-bin": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "egg-ci": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "egg-cors": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "egg-mock": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "eslint": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "eslint-config-egg": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "autod": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "autod-egg": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "egg-ci": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "egg-cors": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "egg-mock": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "eslint": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     },
     "engines": {
-      "node": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "node": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     },
     "scripts": {
-      "start": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "stop": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "dev": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "debug": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "test": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "test-local": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "cov": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "lint": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "ci": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "autod": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "start": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "stop": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "dev": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "debug": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "test": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "test-local": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "cov": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "lint": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "ci": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "autod": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     },
     "ci": {
-      "version": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "version": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     },
     "repository": {
-      "type": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "url": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "type": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "url": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     },
-    "author": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "license": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+    "author": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "license": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
   },
-  "baseDir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "HOME": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "baseDir": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
   "dump": {
-    "ignore": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+    "ignore": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "notFound": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "sitefile": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "middlewares": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "httpClient": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+    "bodyparser": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+    "pageUrl": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+    "/favicon.ico": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "formLimit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "jsonLimit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "textLimit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "strict": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "textLimit": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "strict": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "depth": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "parameterLimit": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "arrayLimit": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "depth": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     },
-    "onerror": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+    "onerror": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "env": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "level": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "consoleLevel": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "outputJSON": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "buffer": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "appLogName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "coreLogName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "agentLogName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "errorLogName": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "dir": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "env": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "level": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
     "coreLogger": {
-      "consoleLevel": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.local.js"
+      "consoleLevel": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.local.js"
     },
-    "allowDebugAtProd": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+    "allowDebugAtProd": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+    "enableDNSCache": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
     "request": {
-      "timeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "timeout": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "logging": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+    "enable": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "logging": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
   },
-  "coreMiddleware": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "workerStartTimeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-  "serverTimeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
+  "coreMiddleware": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "port": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-      "hostname": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "port": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js",
-    "responseTimeout": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+    "maxWaitTime": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
   },
-  "onClientError": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\config.default.js"
+  "onClientError": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
 }

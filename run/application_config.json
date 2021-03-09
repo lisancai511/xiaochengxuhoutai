@@ -87,28 +87,28 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-onerror\\lib\\onerror_page.mustache"
+      "templatePath": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\lib\\onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
       "dirs": [
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-session\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jsonp\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-onerror\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-watcher\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-schedule\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-static\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jwt\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-axios\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\locales",
-        "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\locales"
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-session@3.2.0@egg-session\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-development@2.7.0@egg-development\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-static@2.2.0@egg-static\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-view@2.1.3@egg-view\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-mongoose@3.3.1@egg-mongoose\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-jwt@3.1.7@egg-jwt\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-axios@1.1.6@egg-axios\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\locales",
+        "C:\\Users\\y\\Desktop\\egghoutai\\config\\locales"
       ],
       "queryField": "locale",
       "cookieField": "locale",
@@ -119,8 +119,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-watcher\\lib\\event-sources\\default",
-        "development": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-watcher\\lib\\event-sources\\development"
+        "default": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\default",
+        "development": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\development"
       }
     },
     "customLogger": {
@@ -143,7 +143,7 @@
       "files": 10,
       "fileExtensions": [],
       "whitelist": null,
-      "tmpdir": "C:\\Users\\user\\AppData\\Local\\Temp\\egg-multipart-tmp\\mongoose",
+      "tmpdir": "C:\\Users\\y\\AppData\\Local\\Temp\\egg-multipart-tmp\\mongoose",
       "cleanSchedule": {
         "cron": "0 30 4 * * *"
       }
@@ -153,7 +153,8 @@
       "ignoreDirs": [],
       "fastReady": false,
       "reloadOnDebug": true,
-      "overrideDefault": false
+      "overrideDefault": false,
+      "overrideIgnore": false
     },
     "logrotator": {
       "filesRotateByHour": null,
@@ -166,14 +167,14 @@
     },
     "static": {
       "prefix": "/",
-      "dir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai/public",
+      "dir": "C:\\Users\\y\\Desktop\\egghoutai/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\app\\view",
+      "root": "C:\\Users\\y\\Desktop\\egghoutai\\app\\view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -267,9 +268,9 @@
       "author": "",
       "license": "MIT"
     },
-    "baseDir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai",
-    "HOME": "C:\\Users\\user",
-    "rundir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai/run",
+    "baseDir": "C:\\Users\\y\\Desktop\\egghoutai",
+    "HOME": "C:\\Users\\y",
+    "rundir": "C:\\Users\\y\\Desktop\\egghoutai/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -301,7 +302,7 @@
       "returnRawBody": true
     },
     "logger": {
-      "dir": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\logs\\mongoose",
+      "dir": "C:\\Users\\y\\Desktop\\egghoutai\\logs\\mongoose",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -393,43 +394,6 @@
     }
   },
   "plugins": {
-    "session": {
-      "enable": true,
-      "package": "egg-session",
-      "name": "session",
-      "dependencies": [],
-      "optionalDependencies": [],
-      "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-session",
-      "version": "3.1.0"
-    },
-    "security": {
-      "enable": true,
-      "package": "egg-security",
-      "name": "security",
-      "dependencies": [],
-      "optionalDependencies": [
-        "session"
-      ],
-      "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-security",
-      "version": "2.7.1"
-    },
-    "jsonp": {
-      "enable": true,
-      "package": "egg-jsonp",
-      "name": "jsonp",
-      "dependencies": [],
-      "optionalDependencies": [
-        "security"
-      ],
-      "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jsonp",
-      "version": "2.0.0"
-    },
     "onerror": {
       "enable": true,
       "package": "egg-onerror",
@@ -439,9 +403,20 @@
         "jsonp"
       ],
       "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-onerror",
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-onerror@2.1.0@egg-onerror",
       "version": "2.1.0"
+    },
+    "session": {
+      "enable": true,
+      "package": "egg-session",
+      "name": "session",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-session@3.2.0@egg-session",
+      "version": "3.2.0"
     },
     "i18n": {
       "enable": true,
@@ -450,8 +425,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-i18n",
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-i18n@2.1.1@egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -461,20 +436,9 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-watcher",
-      "version": "3.1.0"
-    },
-    "schedule": {
-      "enable": true,
-      "package": "egg-schedule",
-      "name": "schedule",
-      "dependencies": [],
-      "optionalDependencies": [],
-      "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-schedule",
-      "version": "3.6.4"
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-watcher@3.1.1@egg-watcher",
+      "version": "3.1.1"
     },
     "multipart": {
       "enable": true,
@@ -485,9 +449,22 @@
         "schedule"
       ],
       "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-multipart",
-      "version": "2.10.1"
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-multipart@2.10.3@egg-multipart",
+      "version": "2.10.3"
+    },
+    "security": {
+      "enable": true,
+      "package": "egg-security",
+      "name": "security",
+      "dependencies": [],
+      "optionalDependencies": [
+        "session"
+      ],
+      "env": [],
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-security@2.8.0@egg-security",
+      "version": "2.8.0"
     },
     "development": {
       "enable": true,
@@ -500,9 +477,9 @@
       "env": [
         "local"
       ],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-development",
-      "version": "2.4.3"
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-development@2.7.0@egg-development",
+      "version": "2.7.0"
     },
     "logrotator": {
       "enable": true,
@@ -513,9 +490,20 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-logrotator",
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator",
       "version": "3.1.0"
+    },
+    "schedule": {
+      "enable": true,
+      "package": "egg-schedule",
+      "name": "schedule",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-schedule@3.6.6@egg-schedule",
+      "version": "3.6.6"
     },
     "static": {
       "enable": true,
@@ -524,9 +512,22 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-static",
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-static@2.2.0@egg-static",
       "version": "2.2.0"
+    },
+    "jsonp": {
+      "enable": true,
+      "package": "egg-jsonp",
+      "name": "jsonp",
+      "dependencies": [],
+      "optionalDependencies": [
+        "security"
+      ],
+      "env": [],
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp",
+      "version": "2.0.0"
     },
     "view": {
       "enable": true,
@@ -535,9 +536,9 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-view",
-      "version": "2.1.2"
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg@2.29.3@egg\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-view@2.1.3@egg-view",
+      "version": "2.1.3"
     },
     "cors": {
       "enable": true,
@@ -546,9 +547,9 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-mongoose",
-      "version": "3.2.0"
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-mongoose@3.3.1@egg-mongoose",
+      "version": "3.3.1"
     },
     "jwt": {
       "enable": true,
@@ -559,8 +560,8 @@
         "onerror"
       ],
       "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-jwt",
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-jwt@3.1.7@egg-jwt",
       "version": "3.1.7"
     },
     "http": {
@@ -570,9 +571,9 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\config\\plugin.js",
-      "path": "C:\\Users\\user\\Desktop\\myobject\\egghoutai\\node_modules\\egg-axios",
-      "version": "1.1.5"
+      "from": "C:\\Users\\y\\Desktop\\egghoutai\\config\\plugin.js",
+      "path": "C:\\Users\\y\\Desktop\\egghoutai\\node_modules\\_egg-axios@1.1.6@egg-axios",
+      "version": "1.1.6"
     }
   }
 }

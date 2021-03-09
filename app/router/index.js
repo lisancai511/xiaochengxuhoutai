@@ -16,6 +16,7 @@ module.exports = app => {
   require('./role')(app);
   require('./user')(app);
   require('./specialExercises')(app);
+  require('./company')(app)
 
   // router.get('/*', controller.home.index);
 };

@@ -1,0 +1,17 @@
+2021-03-08 21:46:36,184 ERROR 13264 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 13264
+hostname: DESKTOP-NVMBI2L
+
+2021-03-09 21:03:34,930 ERROR 13264 nodejs.ClusterClientNoResponseError: client no response in 80251908ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\y\Desktop\egghoutai\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+name: "ClusterClientNoResponseError"
+pid: 13264
+hostname: DESKTOP-NVMBI2L
+
